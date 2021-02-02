@@ -1,2 +1,2 @@
 # g-colab
-all the google cola files I decide to keep on gh
+all the google colab files I decide to keep on gh
